@@ -8,7 +8,7 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 <br/>
 
 ---
-cover-img: /assets/img/PROFILE.jpg
+center -img: /assets/img/PROFILE.jpg
 ---
 
 
