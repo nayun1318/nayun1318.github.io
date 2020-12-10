@@ -8,7 +8,6 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 <br/>
 
 ---
-layout: page
 cover-img: /assets/img/PROFILE.jpg
 ---
 <br/>
