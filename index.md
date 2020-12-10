@@ -7,7 +7,8 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <br/>
 
-Footer-img: /assets/img/PROFILE.jpg
+avatar: "/assets/img/PROFILE.jpg"
+round-avatar: false
 
 ## About Me!!
 
