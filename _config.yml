@@ -3,7 +3,7 @@
 # [수정필요] 웹페이지 이름
 title: LEE NA YUN / PORTFOLIO
 # [수정필요] 간단한 사이트 설명
-description: PORTFOLIO
+description: 이나윤의 PORTFOLIO 입니다
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
 author: Na Yun Lee
@@ -11,12 +11,14 @@ author: Na Yun Lee
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
+
+  Home: "https://github.com/doha868"
   Career: "career"
-  Education: "education"
-  Blog: "blog"
+  Lincense: "license"
+  Skil: "skil"
   Project: "project"
-  GitHub: "https://github.com/doha868"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+
+ 
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
