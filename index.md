@@ -7,10 +7,12 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <br/>
 
----
-cover-img: /assets/img/PROFILE.jpg
+<div class="text-center">
 
----
+  <img src="{{ /assets/img/PROFILE.jpg'}}" />
+</div>
+
+
 ## About Me
 
 <br> 앞으로도 계속 개발하는 개발자<br/>
