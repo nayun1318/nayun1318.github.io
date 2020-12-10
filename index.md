@@ -2,7 +2,7 @@
 layout: page
 title: 포트폴리오
 subtitle: LEE NA YUN' POTOFOLIO
-cover-img: /assets/img/main1-1.jpg
+cover-img: /assets/img/main1.jpg
 ---
 
 <br/>
