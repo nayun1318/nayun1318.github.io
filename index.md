@@ -13,7 +13,7 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 
 
-## About Me!!
+## About Me
 
 # 앞으로도 계속 개발하는 개발자
 
