@@ -1,9 +1,9 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: LEE NA YUN 포트폴리오
+title: LEE NA YUN PORTFOLIO
 # [수정필요] 간단한 사이트 설명
-description: 개발자를 꿈꾸고 있어요!!
+description: PORTFOLIO
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
 author: Na Yun Lee
@@ -12,10 +12,10 @@ author: Na Yun Lee
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   Career: "career"
-  Publication: "publication"
+  Education: "education"
   Blog: "blog"
   Project: "project"
-  GitHub: "https://github.com/seokho-son"
+  GitHub: "https://github.com/doha868"
   Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 
 
