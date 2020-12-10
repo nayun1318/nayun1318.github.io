@@ -7,7 +7,7 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <br/>
 
-title-img: "/assets/img/PROFILE.jpg"
+thumbnail-img: /assets/img/PROFILE.jpg
 
 
 ## About Me
