@@ -7,14 +7,15 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <br/>
 
+<br>
 <div class="text-center">
   <img src="/assets/img/PROFILE.jpg" width="400" height="200" >
 </div>
-
+<br/>
 
 ## About Me
 
-<br> 앞으로도 계속 개발하는 개발자<br/>
+<h1>앞으로도 계속 개발하는 개발자</h1>
 
 대학교에 들어와서 팀원들과 프로젝트들을 만들면서 새로운 프로그램들을 
 도전할때마다 재미를 느끼게 되었습니다. 대학교 2학년때 부터 프로젝트를 만들면서
