@@ -7,12 +7,9 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <br/>
 
----
-layout: page
-title: 
-subtitle: 
-<img src: "/assets/img/PROFILE.jpg">
----
+<br>
+<img src:/assets/img/PROFILE.jpg>
+<br/>
 
 
 
