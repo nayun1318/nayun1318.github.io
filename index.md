@@ -8,7 +8,7 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 <br/>
 
 <div class="text-center">
-  <img src="/assets/img/PROFILE.jpg" width="700" height="600" >
+  <img src="/assets/img/PROFILE.jpg" width="400" height="600" >
 </div>
 
 
