@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Career
+title: 이력 및 학력
 ---
 
 <br/>
