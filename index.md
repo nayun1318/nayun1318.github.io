@@ -8,7 +8,6 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 <br/>
 
 <div class="text-center">
-
   <img src="{{ /assets/img/PROFILE.jpg'}}" />
 </div>
 
