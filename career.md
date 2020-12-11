@@ -8,8 +8,8 @@ title: "이나윤"에 대해서 소개해드리겠습니다!!
 
 
 ##  학력 <Education>
-###   2014.3 ~ 2017.2월 물금고등학교 졸업
-###   2017.3 ~ 2021.2월 대구한의대학교 재학중(졸업예정자)
+###   2014.3 to 2017.2월 물금고등학교 졸업
+###   2017.3 to 2021.2월 대구한의대학교 재학중(졸업예정자)
 ####  프로젝트에서 맡은 
  
 * Project: _**html, php 인형쇼핑몰 만들기**_
@@ -64,10 +64,12 @@ title: "이나윤"에 대해서 소개해드리겠습니다!!
 # 실습
 
 * 아이티스코 2020.08.03~ 2020.08.28(한달간)
-  *Visual studio로 기업에서 원하는 css만들어주기
-  * Best paper presentation in Korea Computer Congress 2014
-* Best Paper Presentation Award from Korea Information Science Society	2012
-  * Best paper presentation in Korea Computer Congress 2012
-* Amazon Web Services (AWS) in Education Research Grant	2012
-  * A research proposal has been accepted from Amazon Web Services, Inc
+  * Visual studio로 기업에서 원하는 css만들어주기
+  * 
+  *
+  *
+* 지에스씨넷 2020.09.01 ~2020.12.18
+  * 블로그 코딩으로 지에스씨넷 블로그 꾸미기
+  * 온라인 박람회 관리, 진행요원으로 IT관련 기업자분의 조언듣기
+  
 
