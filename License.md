@@ -12,6 +12,10 @@ title: License /Skil
 #### 정보처리기사 필기 2020/06/26 합격
 
 
+### <Skil>
+<div class="text-center">
+  <img src="/assets/img/Skil.jpg" >
+</div>
 
 
 
