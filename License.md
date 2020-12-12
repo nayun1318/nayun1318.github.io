@@ -4,7 +4,6 @@ title: License /Skil
 ---
 
 
-
 ### <자격증>
 
 #### Iot 지식능력검정 2019/06/07 합격
@@ -14,7 +13,7 @@ title: License /Skil
 
 ### <Skil>
 <div class="text-center">
-  <img src="/assets/img/Skil.jpg" >
+  <img src="/assets/img/Skil.png" >
 </div>
 
 
