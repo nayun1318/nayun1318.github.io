@@ -1,5 +1,5 @@
 ---
-layout: post-project
+layout: page-project
 title: Project
 subtitle: Project list
 ---
