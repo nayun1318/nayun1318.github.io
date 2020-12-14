@@ -26,6 +26,6 @@ subtitle: Project list
 
 # 간단한 의료진단시스템
 ### 2019.12.20~ 2019.12.25
-#### role: 코딩<전체담당>
+#### role: 코딩<전체담당>, db연동
 ![간단 가이드](../assets/img/simple hospital2.gif)
 <br>
