@@ -10,8 +10,17 @@ subtitle: Project list
 ![간단 가이드](../assets/img/simple shop.gif)
 <br>
 
+# 병원 처방전달시스템 <db,php>
+### 2018.11.22~ 2018.12.12
+#### role:코딩<처방담당>, 조장보조<인정수정,예약현황>
+#### ※제가 맡은 부분만 정리했습니다!!
+![간단 가이드](../assets/img/simple hospital.gif)
+<br>
+
+
 # 간단한 bmi 계산기
 ### 2019.06.04~ 2019.06.05
 #### role:기획, 코딩, 디자인
 ![간단 가이드](../assets/img/simple bmi.gif)
 <br>
+
