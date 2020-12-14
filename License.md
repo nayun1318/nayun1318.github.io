@@ -10,8 +10,7 @@ title: License /Skil
 #### e-test Professionals 1급 2019/12/07 취득
 #### 정보처리기사 필기 2020/06/26 합격
 
-
-
+<br/>
 
 
 ### Skil 
@@ -19,6 +18,5 @@ title: License /Skil
   <img src="/assets/img/Skil.png" >
 </div>
 
-#### html, php연동 가능함
 
 
