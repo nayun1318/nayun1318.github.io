@@ -4,7 +4,7 @@ title: License /Skil
 ---
 
 
-### <자격증>
+# License <자격증>
 
 #### Iot 지식능력검정 2019/06/07 합격
 #### e-test Professionals 1급 2019/12/07 취득
