@@ -2,7 +2,6 @@
 layout: page
 title: "이나윤"에 대해서 소개해드리겠습니다!!
 subtitle: Education
-cover-img: /assets/img/main1.jpg
 ---
 
 <br/>
