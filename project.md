@@ -29,3 +29,7 @@ subtitle: Project list
 #### role: 코딩<전체담당>, db연동
 ![간단 가이드](../assets/img/simple hospital2.gif)
 <br>
+
+# 유튜브 반응형 사이트 만들기
+### 2021.02.17
+![간단 가이드](../assets/img/youtube.png)
