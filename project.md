@@ -32,4 +32,4 @@ subtitle: Project list
 
 # 유튜브 반응형 사이트 만들기
 ### 2021.02.17
-(../assets/img/youtube.PNG)
+![간단 가이드](../assets/img/youtube.png)
